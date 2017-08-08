@@ -7,6 +7,7 @@ body {
     color: #222;
     /*set default margin to 0 - becuase every browser has a different default*/
     margin:0;
+	background: #ffccff;
 }
 /*select all anchor tags*/
 a {	
