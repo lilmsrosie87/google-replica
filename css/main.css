@@ -1,15 +1,15 @@
 * {
-/*default text color*/
 	color: #000;
 }
-/*select the body tag*/
+	
 body {
     color: #222;
     /*set default margin to 0 - becuase every browser has a different default*/
     margin:0;
-	background: #ffccff;
+	background-image: url(https://dw9to29mmj727.cloudfront.net/promo/2016/5257-SeriesHeaders_SMv3_2000x800.jpg);
+	background-size: 1366px 600px;
+	background-repeat: no-repeat;
 }
-/*select all anchor tags*/
 a {	
 	/*change the text color to light blackish*/
 	color:#222;
